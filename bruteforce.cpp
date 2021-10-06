@@ -5,7 +5,7 @@
 std::string charset_bruteforce = "abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ~`!@#$%^&*()-_\\/\\\'\";:,.+=<>? ";
 int max_length = 8;
 int str_length = charset_bruteforce.size();
-std::string targetnya = "42810cb02db3bb2cbb428af0d8b0376e";
+std::string targetnya = "fc646ab58bc3535f15cebaf9caa144e6";
 
 
 class bruteforce{
